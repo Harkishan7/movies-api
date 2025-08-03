@@ -26,7 +26,7 @@ A RESTful Movie Review API built with **Spring Boot**. It allows users to fetch 
 
 ##  Project Structure
 
-
+```
 movies-api
 ├── .idea/
 ├── movies/
@@ -49,7 +49,7 @@ movies-api
 │   │       ├── .env
 │   │       └── .env.examples
 │   └── test/java/dev/hk/movies/MoviesApplicationTests.java
-
+```
 
 
 
