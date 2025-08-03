@@ -2,7 +2,7 @@
 
 A RESTful Movie Review API built with **Spring Boot**. It allows users to fetch movie data and submit/read reviews. Designed as a backend service for movie-based applications.
 
----
+
 
 ##  Features
 
@@ -11,7 +11,7 @@ A RESTful Movie Review API built with **Spring Boot**. It allows users to fetch 
 *  Uses Spring Boot with MVC architecture
 *  Connects to a database using Spring Data JPA
 
----
+
 
 ##  Technologies Used
 
@@ -22,11 +22,11 @@ A RESTful Movie Review API built with **Spring Boot**. It allows users to fetch 
 * MongoDB
 * Maven
 
----
+
 
 ##  Project Structure
 
-```
+
 movies-api
 ├── .idea/
 ├── movies/
@@ -49,9 +49,9 @@ movies-api
 │   │       ├── .env
 │   │       └── .env.examples
 │   └── test/java/dev/hk/movies/MoviesApplicationTests.java
-```
 
----
+
+
 
 ##  Setup Instructions
 
@@ -91,7 +91,7 @@ Example endpoints:
 * `POST /api/reviews` – add a review
 * `GET /api/reviews/{movieId}` – get reviews for a movie
 
----
+
 
 ##  Testing
 
@@ -101,13 +101,13 @@ Run tests using Maven:
 mvn test
 ```
 
----
+
 
 ##  Author
 
 Harkishan Solanki
 
----
+
 
 ##  License
 
